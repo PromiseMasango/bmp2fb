@@ -1,0 +1,8 @@
+/* Author : Masango Promise
+   Name   : bmp2fb.c (bitmap-to-framebuffer)
+   Description: Display a windows bitmap image (24-bit) to a framebuffer.
+*/
+
+/*INFO*/
+>this program was made to run on 32-bit machines, it was made for android to be specific.
+It required an android C cross-compiler to work. You can then use adb to copy the executable to the target device.
